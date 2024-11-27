@@ -15,11 +15,11 @@ This is a simple BMI (Body Mass Index) Calculator implemented using HTML, CSS, a
    - Users enter their height in centimeters (cm).
 2. **BMI Calculation:**
    - Upon submission, the BMI is calculated using the formula:
-
-     ```scss
-     BMI = weight(kg) / height(m)^2
+     
+     ```math
+      BMI = \frac{weight(kg)}{height(m)^2}
      ```
-
+     
 3. **Display Result:**
    - The calculated BMI is displayed on the screen with a smooth animation.
 
