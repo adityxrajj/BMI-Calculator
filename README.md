@@ -15,10 +15,10 @@ This is a simple BMI (Body Mass Index) Calculator implemented using HTML, CSS, a
    - Users enter their height in centimeters (cm).
 2. **BMI Calculation:**
    - Upon submission, the BMI is calculated using the formula:
-     
-    ```
-     BMI = weight(kg)/height(m)^2
-    ```
+
+     ```scss
+     BMI = weight(kg) / height(m)^2
+     ```
 
 3. **Display Result:**
    - The calculated BMI is displayed on the screen with a smooth animation.
@@ -34,7 +34,7 @@ git clone https://github.com/adityxrajj/bmi-calculator.git
 ```
 
 2. Navigate to the project directory:
-```
+```bash
 cd bmi-calculator
 ```
 3. Open the `index.html` file in your browser.
